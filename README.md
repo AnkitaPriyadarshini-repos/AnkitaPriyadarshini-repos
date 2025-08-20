@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Ankita Priyadarshini Pallai  
 
-<!--
-**AnkitaPriyadarshini-repos/AnkitaPriyadarshini-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 B.Tech student in **Computer Science and Engineering (CSE)** at Sambalpur University Institute of Information Technology  
+💡 Interested in **Data Structures & Algorithms, Web Development, AI, and Operating Systems**  
+🌱 Currently learning **C++, Python, React.js, and Full-Stack Development**  
+✨ Always curious to learn, build, and share!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+- **Languages:** C++, Python, Java, JavaScript  
+- **Web:** HTML, CSS, React.js, Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📊 GitHub Stats  
+
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankita-priyadarshini-pallai)  
+- 📧 Email: **ankitapriyadarshini8600@gmail.com**  
+
+---
+
+⭐️ From [your-username](https://github.com/your-username)
