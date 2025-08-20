@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats  
 
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaPriyadarshini-repos&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaPriyadarshini-repos&layout=compact&theme=radical)  
 
 ---
 
@@ -31,4 +31,4 @@
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [AnkitaPriyadarshini-repos](https://github.com/AnkitaPriyadarshini-repos)
