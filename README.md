@@ -40,7 +40,7 @@
 
 ## 🎯 Fun Facts  
 - 💡 I love solving challenging problems in **DSA**  
-- 🎶 Music keeps me focused while coding  
+- 🎶 Music keeps me focused while coding and reading 
 - 🌍 Always eager to explore new technologies  
 
 ---
