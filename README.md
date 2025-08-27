@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ankita Priyadarshini Pallai  
+# Hi there 👋, I am Ankita Priyadarshini Pallai  
 
 > 🌟 *"Code. Learn. Build. Repeat."*  
 
