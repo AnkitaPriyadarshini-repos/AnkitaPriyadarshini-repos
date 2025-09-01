@@ -1,6 +1,6 @@
 # Hi there 👋, I am Ankita Priyadarshini Pallai  
 
-> 🌟 "Code. Learn. Build. Repeat." 
+🌟 "Code. Learn. Build. Repeat." 
 
 ## 🚀 About Me  
 🎓 B.Tech student in **Computer Science and Engineering (CSE)** at Sambalpur University Institute of Information Technology  
