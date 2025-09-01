@@ -15,30 +15,20 @@
 - **Database:** MongoDB, MySQL  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
----
-
 ## 📊 GitHub Stats  
 
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaPriyadarshini-repos&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaPriyadarshini-repos&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitaPriyadarshini-repos&theme=radical)  
 
----
-
-
-
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankita-priyadarshini-pallai)  
 - 📧 Email: **ankitapriyadarshini8600@gmail.com**  
 
----
-
 ## 🎯 Fun Facts  
 - 💡 I love solving challenging problems in **DSA**  
 - 🎶 Music keeps me focused while coding and reading 
 - 🌍 Always eager to explore new technologies  
-
----
 
 ⭐️ From [AnkitaPriyadarshini-repos](https://github.com/AnkitaPriyadarshini-repos)
