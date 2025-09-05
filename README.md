@@ -2,7 +2,7 @@
 
 🌟 "Code. Learn. Build. Repeat."
 
-## 🚀 About Me  
+## 🚀 About 
 🎓 B.Tech student in **Computer Science and Engineering (CSE)** at Sambalpur University Institute of Information Technology  
 💡 Passionate about **Data Structures & Algorithms, Web Development, AI, and Operating Systems**  
 🌱 Currently learning **C++, Python, React.js, and Full-Stack Development**  
