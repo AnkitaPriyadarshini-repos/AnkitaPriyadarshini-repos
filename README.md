@@ -1,4 +1,4 @@
-# Hi there , I am Ankita Priyadarshini Pallai
+# Hi there , I am Ankita Priyadarshini Palla
 
 🌟 "Code. Learn. Build. Repeat."
 
