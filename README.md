@@ -2,22 +2,11 @@
 
 🌟 "Code. Learn. Build. Repeat."
 
-## 🏆 GitHub Badges & Achievements
-<p left="left">
-  <a href="https://github.com/AnkitaPriyadarshini-repos">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="65" alt="Pull Shark 🦈" title="Pull Shark 🦈 — Merged PRs Achievement" />
-  </a>
-  <a href="https://github.com/AnkitaPriyadarshini-repos">
-    <img src="https://github.githubassets.com/assets/quick-draw-default-39b23b895d35.png" width="65" alt="Quickdraw 🤠" title="Quickdraw 🤠" />
-  </a>
-  <a href="https://github.com/AnkitaPriyadarshini-repos">
-    <img src="https://github.githubassets.com/assets/yolo-default-5d469ef796a3.png" width="65" alt="YOLO 🎲" title="YOLO 🎲" />
-  </a>
-</p>
+## 🏆 GitHub Achievements & Badges
 
-```
-🦈 PULL SHARK UNLOCKED — 6 Merged Pull Requests across BlogSphere-AI & Open Source Repositories
-```
+<p left="left">
+  <img src="https://my-github-achievements.vercel.app/api/achievements?username=AnkitaPriyadarshini-repos&theme=radical" alt="GitHub Achievements" />
+</p>
 
 ## 🚀 About Me
 🎓 B.Tech student in **Computer Science and Engineering (CSE)** at Sambalpur University Institute of Information Technology  
