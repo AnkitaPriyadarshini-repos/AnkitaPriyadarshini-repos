@@ -2,12 +2,6 @@
 
 🌟 "Code. Learn. Build. Repeat."
 
-## 🏆 GitHub Achievements & Badges
-
-<p left="left">
-  <img src="https://my-github-achievements.vercel.app/api/achievements?username=AnkitaPriyadarshini-repos&theme=radical" alt="GitHub Achievements" />
-</p>
-
 ## 🚀 About Me
 🎓 B.Tech student in **Computer Science and Engineering (CSE)** at Sambalpur University Institute of Information Technology  
 💡 Passionate about **Data Structures & Algorithms, Web Development, AI, and Operating Systems**  
