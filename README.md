@@ -6,15 +6,23 @@
 
 ## 🏆 GitHub Achievements & Milestones
 
-<p left="left">
-  <img src="https://img.shields.io/badge/Pull%20Shark-16%2B%20Merged%20PRs-blue?style=for-the-badge&logo=github" alt="Pull Shark Badge" />
-  <img src="https://img.shields.io/badge/Quickdraw-Fast%20PR%20Merge-orange?style=for-the-badge&logo=github" alt="Quickdraw Badge" />
-  <img src="https://img.shields.io/badge/YOLO-Production%20Deploy-pink?style=for-the-badge&logo=github" alt="YOLO Badge" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitaPriyadarshini-repos&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-- 🦈 **Pull Shark**: Earned across 16+ merged pull requests ([Second Brain AI System PR #1](https://github.com/AnkitaPriyadarshini-repos/Second-Brain-AI-System/pull/1))
-- ⚡ **Quickdraw**: Earned for automated verification & rapid PR merging
-- 💖 **YOLO**: Earned for production deployments without review delays
+<p align="left">
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Co--Authored%20Commit-green?style=for-the-badge&logo=github" alt="Pair Extraordinaire Badge" />
+  <img src="https://img.shields.io/badge/Quickdraw-Fast%20PR%20Merge-orange?style=for-the-badge&logo=github" alt="Quickdraw Badge" />
+  <img src="https://img.shields.io/badge/YOLO-Direct%20Merge-pink?style=for-the-badge&logo=github" alt="YOLO Badge" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-17%20PRs%20(Awaiting%20Maintainer%20Merge)-blue?style=for-the-badge&logo=github" alt="Pull Shark Badge" />
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-Discussion%20Answer-purple?style=for-the-badge&logo=github" alt="Galaxy Brain Badge" />
+</p>
+
+- 👯‍♂️ **Pair Extraordinaire**: Earned for co-authoring commits in merged pull requests
+- ⚡ **Quickdraw**: Earned for closing issues/PRs within 5 minutes of opening
+- 🎲 **YOLO**: Earned for merging pull requests without code review
+- 🦈 **Pull Shark**: Pending final maintainer merge on submitted external PRs ([PR #7753](https://github.com/fork-commit-merge/fork-commit-merge/pull/7753))
+- 🧠 **Galaxy Brain**: Discussions answered & marked as accepted in community repositories
 
 ---
 
