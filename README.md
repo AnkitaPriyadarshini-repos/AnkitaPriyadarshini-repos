@@ -1,9 +1,5 @@
 # 👋 Hello, I am Ankita Priyadarshini Pallai
 
-Mostly building backend systems, AI tools, and real-time applications. 
-I like figuring out how things work underneath — databases, networking,
-concurrency, and retrieval.
+I’m drawn to problems where the interesting part is what happens underneath the abstraction. I like understanding systems by building them.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankita-priyadarshini-pallai)
-- 🧩 [LeetCode](https://leetcode.com/u/Ankita_Priyadarshini/)
-- 📧 ankita.priyadarshini8600@gmail.com
+📧 ankita.priyadarshini8600@gmail.com
